@@ -22,13 +22,13 @@ Losses: All amounts bet are lost in the event of a loss.
 Optimal Fractional Bet: The simulation identifies the optimal fractional bet that leads to the highest growth rate.  
 Strategic Insights: The simulation suggests not playing if odds of winning are below 50% and increasing bets with higher odds of winning.  
 Exponential Growth Impact: Games with 100% chance of winning show significant exponential growth, influencing the optimal betting strategy.  
-![left three dimensional scatter plot with simulated obtimal bet values and right is a surface plot of the same data](images/sim.jpg)  
+![left three dimensional scatter plot with simulated obtimal bet values and right is a surface plot of the same data](https://github.com/UnknownPaws/Kelly-Criterion-Simulation/blob/master/images/sim.png?raw=true)  
 
 ## Validation
 
 Mean Percent Error: The simulation demonstrated a mean percent error of 2.39%, validating its accuracy. The error percent per point is calculated using the [Kelly Bet Gambling Formula](https://en.wikipedia.org/wiki/Kelly_criterion) as expected value.  
 Comparison of Calculated and Simulated Optimal Bets: Graphical representation shows close alignment between these values across different game scenarios.  
-![three dimensional scatter plot of simulated and calculated optimal bet values with 2.39% as mean error percent](images/error.jpg)  
+![three dimensional scatter plot of simulated and calculated optimal bet values with 2.39% as mean error percent](https://github.com/UnknownPaws/Kelly-Criterion-Simulation/blob/master/images/error.png?raw=true)  
 
 ## How to Run the Simulation
 
